@@ -51,16 +51,6 @@ Linux              █████████░ 85%
 
 ---
 
-## 🛠️ Tech Stack
-
-![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-purple?logo=terraform)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?logo=githubactions)
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
-![Nginx](https://img.shields.io/badge/Nginx-green?logo=nginx)
-
 ---
 
 
