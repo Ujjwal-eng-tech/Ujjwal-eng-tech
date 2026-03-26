@@ -63,11 +63,6 @@ Linux              █████████░ 85%
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Ujjwal-eng-tech&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal-eng-tech&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
