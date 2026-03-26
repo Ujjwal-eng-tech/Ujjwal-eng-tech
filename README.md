@@ -24,13 +24,11 @@
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
 
 ---
-
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Ujjwal-eng-tech&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Ujjwal-eng-tech&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal-eng-tech&layout=compact&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal-eng-tech&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 ---
 
 ## 🐍 Contribution Snake
