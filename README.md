@@ -7,6 +7,16 @@
 
 ---
 
+
+## 🔥 About Me
+
+Hey there! I'm **Ujjwal** — a driven **DevOps & Cloud Engineer** ☁️🚀  
+
+I focus on designing scalable cloud architectures, automating infrastructure with Terraform, and building efficient CI/CD pipelines for seamless deployments.  
+
+With hands-on experience in **AWS, Docker, Kubernetes, Linux, and GitHub Actions**, I aim to create systems that are fast, reliable, and production-ready.  
+
+
 ## 🧠 System Booting...
 
 🟢 Status: Online  
